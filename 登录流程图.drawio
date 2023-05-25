@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T05:35:46.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UAqqLvfMMjliEXGBL2jm" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T05:50:20.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XhAcil7J7rtmEcsIQz0-" version="21.3.3" type="github">
   <diagram name="第 1 页" id="gDaQUwDjFWSTtN8wveqf">
     <mxGraphModel dx="1194" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,8 +54,10 @@
         <mxCell id="wsPNG4IyTGu3zgNpEpv5-5" value="微信登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wsPNG4IyTGu3zgNpEpv5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsPNG4IyTGu3zgNpEpv5-8" target="wsPNG4IyTGu3zgNpEpv5-58">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wsPNG4IyTGu3zgNpEpv5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsPNG4IyTGu3zgNpEpv5-8" target="wsPNG4IyTGu3zgNpEpv5-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wsPNG4IyTGu3zgNpEpv5-8" value="手机账号/密码登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="240" width="130" height="60" as="geometry" />
@@ -175,12 +177,6 @@
         </mxCell>
         <mxCell id="wsPNG4IyTGu3zgNpEpv5-56" value="图形码验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="310" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="wsPNG4IyTGu3zgNpEpv5-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsPNG4IyTGu3zgNpEpv5-58" target="wsPNG4IyTGu3zgNpEpv5-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wsPNG4IyTGu3zgNpEpv5-58" value="图形码验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="330" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
