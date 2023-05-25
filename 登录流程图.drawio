@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T05:30:38.687Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SX6JecQ3TfAAQXGSuZf5" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T05:35:46.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UAqqLvfMMjliEXGBL2jm" version="21.3.3" type="github">
   <diagram name="第 1 页" id="gDaQUwDjFWSTtN8wveqf">
     <mxGraphModel dx="1194" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
         <mxCell id="wsPNG4IyTGu3zgNpEpv5-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wsPNG4IyTGu3zgNpEpv5-52" target="wsPNG4IyTGu3zgNpEpv5-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wsPNG4IyTGu3zgNpEpv5-52" value="短信验证码登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wsPNG4IyTGu3zgNpEpv5-52" value="短信验证码注册/登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="230" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wsPNG4IyTGu3zgNpEpv5-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wsPNG4IyTGu3zgNpEpv5-56" target="wsPNG4IyTGu3zgNpEpv5-11">
