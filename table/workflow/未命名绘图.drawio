@@ -56,11 +56,6 @@
             <mxPoint x="970" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tkj-nu81IUMY8wFwNAfT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="S_AL6ZiSJpHqSD9SIXGw-0" target="Tkj-nu81IUMY8wFwNAfT-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1710" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S_AL6ZiSJpHqSD9SIXGw-0" value="BaseData" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="910" y="10" width="120" height="60" as="geometry" />
         </mxCell>
@@ -127,12 +122,9 @@
           <mxGeometry x="820" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XL8KVwqwtBIXgalrL8h4-5" value="TreasureDataDealer" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="960" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XL8KVwqwtBIXgalrL8h4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XL8KVwqwtBIXgalrL8h4-7" target="XL8KVwqwtBIXgalrL8h4-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XL8KVwqwtBIXgalrL8h4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XL8KVwqwtBIXgalrL8h4-7" target="XL8KVwqwtBIXgalrL8h4-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XL8KVwqwtBIXgalrL8h4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XL8KVwqwtBIXgalrL8h4-7" target="S_AL6ZiSJpHqSD9SIXGw-25" edge="1">
@@ -141,8 +133,8 @@
         <mxCell id="XL8KVwqwtBIXgalrL8h4-7" value="Item" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="820" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tkj-nu81IUMY8wFwNAfT-5" value="CardDataDealer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1600" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="Tkj-nu81IUMY8wFwNAfT-5" value="CardDataDealer" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1190" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
